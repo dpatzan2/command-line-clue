@@ -16,5 +16,6 @@ I found a clue in initial game folder: report activity in gazebo
 I found the Magnifying Glass in the science lab
 I found the Paint Brush in the cafe
 I found the blacksmith in the office records
+I found the crime scene at the mansion
 
 Location of the crime is still unknown - the room must have been empty when it happened...
